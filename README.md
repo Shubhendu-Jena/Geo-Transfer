@@ -1,4 +1,4 @@
-# Geo-Transfer
+# GeoTransfer
 GeoTransfer: Generalizable Few-Shot Multi-View Reconstruction via Transfer Learning
 Shubhendu Jena, Franck Multon, Adnane Boukhayma.<br/> 
 [ECCVW 2024](https://arxiv.org/abs/2408.14724)<br/> 
